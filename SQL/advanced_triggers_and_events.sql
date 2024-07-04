@@ -1,6 +1,6 @@
 -- Triggers and Events
 -- A trigger is a block of code hat executes automatically when an event takes place
-
+-- An event takes place when it is scheduled
 SELECT *
 FROM employee_demographics;
 
@@ -19,3 +19,20 @@ DELIMITER ;
 
 INSERT INTO employee_salary (employee_id, first_name, last_name, occupation, salary, dept_id)
 VALUES(13, 'Jean-Ralphio', 'Saperstein', 'Entertainment 720 CEO', 1000000, NULL);
+
+-- Events
+SELECT *
+FROM employee_demographics;
+
+DELIMITER $$
+CREATE EVENT delete_retirees
+ON SCHEDULE EVERY 30 SECOND
+DO
+BEGIN
+	DELETE
+	FROM employee_demographics
+    WHERE age >= 60;
+END $$
+DELIMITER ;
+
+SHOW VARIABLES LIKE 'event%';
