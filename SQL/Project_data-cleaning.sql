@@ -131,7 +131,7 @@ JOIN layoffs_staging2 t2
 	ON t1.company = t2.company
 SET t1.industry = t2.industry
 WHERE (t1.industry IS NULL OR t1.industry = '')
-AND t2.industry IS NOT NULL; -- update the industry column 
+AND t2.industry IS NOT NULL; -- update the null values in the industry column with similar company with industry value
 
 -- Remove unnecessary columns or rows
 SELECT *
