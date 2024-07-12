@@ -82,5 +82,3 @@ WITH Company_Year (company, years, total_laid_off) AS
 SELECT *
 FROM Company_Year_Rank
 WHERE Ranking <=5;
-
-
