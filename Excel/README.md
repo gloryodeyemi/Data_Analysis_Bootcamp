@@ -8,3 +8,4 @@ Data Analysis with Microsoft Excel.
     * IF ans IFS
     * LEN
     * LEFT and RIGHT
+    * TEXT
