@@ -9,3 +9,9 @@ Data Analysis with Microsoft Excel.
     * LEN
     * LEFT and RIGHT
     * TEXT
+    * TRIM
+    * CONCATENATE
+    * SUBSTITUTE
+    * SUM, SUMIF, and SUMIFS
+    * COUNT, COUNTIF, and COUNTIFS
+    * DAYS, NETWORKDAYS
