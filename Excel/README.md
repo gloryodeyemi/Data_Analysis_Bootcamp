@@ -7,4 +7,4 @@ Data Analysis with Microsoft Excel.
     * MAX and MIN
     * IF ans IFS
     * LEN
-    
+    * LEFT and RIGHT
