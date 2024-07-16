@@ -15,4 +15,4 @@ Data Analysis with Microsoft Excel.
     * SUM, SUMIF, and SUMIFS
     * COUNT, COUNTIF, and COUNTIFS
     * DAYS, NETWORKDAYS
-    * XLOOKUP
+    * XLOOKUP and VLOOKUP
