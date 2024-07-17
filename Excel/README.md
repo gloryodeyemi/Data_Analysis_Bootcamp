@@ -16,3 +16,4 @@ Data Analysis with Microsoft Excel.
     * COUNT, COUNTIF, and COUNTIFS
     * DAYS, NETWORKDAYS
     * XLOOKUP and VLOOKUP
+3. Conditional Formatting
