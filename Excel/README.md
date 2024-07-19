@@ -17,3 +17,4 @@ Data Analysis with Microsoft Excel.
     * DAYS, NETWORKDAYS
     * XLOOKUP and VLOOKUP
 3. Conditional Formatting
+4. Charts
