@@ -18,3 +18,4 @@ Data Analysis with Microsoft Excel.
     * XLOOKUP and VLOOKUP
 3. Conditional Formatting
 4. Charts
+5. Data cleaning
