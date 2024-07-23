@@ -25,3 +25,5 @@ Data Analysis with Microsoft Excel.
 2. Data readability (Find and Replace) - changed M - Married, Male, S - Single, and F - Female
 3. Nested IF statement
 4. Pivot Tables
+5. Charts
+6. Dashboard
