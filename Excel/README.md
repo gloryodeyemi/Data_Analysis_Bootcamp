@@ -27,3 +27,5 @@ Data Analysis with Microsoft Excel.
 4. Pivot Tables
 5. Charts
 6. Dashboard
+
+![Excel Dashboard](https://github.com/gloryodeyemi/Data_Science/blob/main/Excel/Excel%20Dashboard.png)
