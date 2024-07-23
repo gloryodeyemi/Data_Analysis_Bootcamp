@@ -19,3 +19,8 @@ Data Analysis with Microsoft Excel.
 3. Conditional Formatting
 4. Charts
 5. Data cleaning
+
+## Project Steps
+1. Remove duplicate data
+2. Data readability (Find and Replace) - changed M - Married, Male, S - Single, and F - Female
+3. Nested IF statement
