@@ -8,4 +8,4 @@ Data Analysis with Tableau.
 4. Joins
 
 ## Portfolio Project
-![Click to view Tableau Dashboard](https://public.tableau.com/views/AirBnbAnalysis_17235107473110/AirBnbPricingRevenue?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Click to view Tableau Dashboard](https://public.tableau.com/views/AirBnbAnalysis_17235107473110/AirBnbPricingRevenue?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
